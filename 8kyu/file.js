@@ -9,3 +9,5 @@
 function paperwork(n, m) {
 
 }
+
+console.log("paperwork", paperwork(5, 5))
